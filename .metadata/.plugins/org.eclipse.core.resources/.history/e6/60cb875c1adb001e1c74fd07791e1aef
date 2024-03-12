@@ -1,0 +1,5 @@
+package com.org.social.config;
+
+public class WebSocketConfig {
+
+}
